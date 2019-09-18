@@ -1,0 +1,7 @@
+{
+    "restart": {
+        "exclude": ["^public/", "^dist/"],
+        "include": ["\\.py$"]
+    },
+    "throttle": 900000
+}
